@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Đếm số trong dãy", "Đếm số trong dãy\Đếm số trong dãy.pyproj", "{F866D115-AD1E-43A7-AE5A-1F477FBF79B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F866D115-AD1E-43A7-AE5A-1F477FBF79B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F866D115-AD1E-43A7-AE5A-1F477FBF79B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7929B4B-0836-48A7-A0F8-A883DE401F41}
+	EndGlobalSection
+EndGlobal

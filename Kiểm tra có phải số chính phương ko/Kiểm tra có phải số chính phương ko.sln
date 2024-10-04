@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kiểm tra có phải số chính phương ko", "Kiểm tra có phải số chính phương ko\Kiểm tra có phải số chính phương ko.pyproj", "{410238F1-36B5-4725-AE86-CB45CCD93301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410238F1-36B5-4725-AE86-CB45CCD93301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410238F1-36B5-4725-AE86-CB45CCD93301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A093778-CD88-4F76-A5DC-B6CDA1444C75}
+	EndGlobalSection
+EndGlobal

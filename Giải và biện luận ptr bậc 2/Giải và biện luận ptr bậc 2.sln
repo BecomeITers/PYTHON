@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Giải và biện luận ptr bậc 2", "Giải và biện luận ptr bậc 2\Giải và biện luận ptr bậc 2.pyproj", "{43C00462-186E-458A-8939-5FD4FEEF5EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C00462-186E-458A-8939-5FD4FEEF5EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C00462-186E-458A-8939-5FD4FEEF5EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF774B2-EF93-4FBC-A2ED-00A67182A347}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tính diện tích tam giác", "Tính diện tích tam giác\Tính diện tích tam giác.pyproj", "{ACA1454C-543C-4679-B3DF-2AC9BC86F433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA1454C-543C-4679-B3DF-2AC9BC86F433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA1454C-543C-4679-B3DF-2AC9BC86F433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE7EF00-7E24-4C63-9E02-25C58EF81AE6}
+	EndGlobalSection
+EndGlobal

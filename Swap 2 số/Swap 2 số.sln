@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Swap 2 số", "Swap 2 số\Swap 2 số.pyproj", "{E228C905-5734-48E6-9DD2-36A4466EAF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E228C905-5734-48E6-9DD2-36A4466EAF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E228C905-5734-48E6-9DD2-36A4466EAF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1FED85-3A4B-4D30-BD92-16FCF3BD49DB}
+	EndGlobalSection
+EndGlobal

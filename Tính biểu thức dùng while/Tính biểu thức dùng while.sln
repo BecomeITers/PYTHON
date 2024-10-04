@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tính biểu thức dùng while", "Tính biểu thức dùng while\Tính biểu thức dùng while.pyproj", "{6C3A3653-D4BA-47F4-AE48-443BBB6141EE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bieuthuc2", "Bieuthuc2\Bieuthuc2.pyproj", "{A449A665-CD0A-452C-B654-6B9172A5C883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C3A3653-D4BA-47F4-AE48-443BBB6141EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3A3653-D4BA-47F4-AE48-443BBB6141EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A449A665-CD0A-452C-B654-6B9172A5C883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A449A665-CD0A-452C-B654-6B9172A5C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FB25CA-C5AA-40E5-8E14-4DAA3AAF35A8}
+	EndGlobalSection
+EndGlobal

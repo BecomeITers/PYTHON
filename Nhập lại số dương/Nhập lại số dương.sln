@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Nhập lại số dương", "Nhập lại số dương\Nhập lại số dương.pyproj", "{E5F940DE-8AFB-468D-9221-E411350D5FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F940DE-8AFB-468D-9221-E411350D5FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F940DE-8AFB-468D-9221-E411350D5FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A476EB7B-4553-427E-BB22-CFB41B2AA375}
+	EndGlobalSection
+EndGlobal

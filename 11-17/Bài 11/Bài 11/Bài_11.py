@@ -1,0 +1,5 @@
+str = input("Nhap chuoi: ")
+set1 = set(str)
+set1_sort = sorted(set1)
+res = ''.join(set1_sort)
+print(res)
