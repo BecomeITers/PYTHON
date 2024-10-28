@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh python\\Qu\u1EA3n l\u00FD sv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98DF6AB-5FB0-49D0-A933-A437F9CA56EC}|Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv.pyproj|D:\\L\u1EADp tr\u00ECnh python\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv\\SV.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A98DF6AB-5FB0-49D0-A933-A437F9CA56EC}|Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv.pyproj|solutionrelative:Qu\u1EA3n l\u00FD sv\\SV.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98DF6AB-5FB0-49D0-A933-A437F9CA56EC}|Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv.pyproj|D:\\L\u1EADp tr\u00ECnh python\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n_l\u00FD_sv.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A98DF6AB-5FB0-49D0-A933-A437F9CA56EC}|Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv.pyproj|solutionrelative:Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n_l\u00FD_sv.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SV.py",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh python\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv\\SV.py",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sv\\SV.py",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh python\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv\\SV.py",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sv\\SV.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T16:34:42.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Qu\u1EA3n_l\u00FD_sv.py",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh python\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n_l\u00FD_sv.py",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n_l\u00FD_sv.py",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh python\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n_l\u00FD_sv.py",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sv\\Qu\u1EA3n_l\u00FD_sv.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T16:33:11.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
