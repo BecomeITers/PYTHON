@@ -1,0 +1,12 @@
+import pandas as pd
+df = pd.read_csv("D:\\Pandas\\Bài 1\\Churn_Modelling.csv", header = 0, index_col = 'RowNumber')
+print(df)
+print("-----------------------------------------------")
+tk = df.describe()
+print(tk)
+print("-----------------------------------------------")
+tb = df.groupby('Geography')['CreditScore'].mean()
+print(tb)
+print("-----------------------------------------------")
+df['AgeGroup'] = pd.qcut(df['Age'], q=5, labels=['Nhóm 1', 'Nhóm 2', 'Nhóm 3', 'Nhóm 4', 'Nhóm 5'])
+print(df[['Age', 'AgeGroup']])
